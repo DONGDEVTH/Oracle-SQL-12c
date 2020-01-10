@@ -1,0 +1,1 @@
+SELECT LENGTH(9800)col1,length('Supachai')col2 from dual;

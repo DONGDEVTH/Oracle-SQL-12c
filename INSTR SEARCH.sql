@@ -1,0 +1,1 @@
+SELECT INSTR ('Hello','e') from dual;

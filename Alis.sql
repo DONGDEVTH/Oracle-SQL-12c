@@ -1,0 +1,1 @@
+SELECT FIRST_NAME "First Name",LAST_NAME "Last Name",SALARY "Current Salary",SALARY * 1.10 "New Salary" FROM EMPLOYEES;

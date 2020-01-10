@@ -1,0 +1,1 @@
+SELECT EMPLOYEE_ID "Staff_ID",FIRST_NAME ||''||LAST_NAME||'/'||JOB_ID"Staff Details",'Current Salary-'||SALARY||''||'Newsalary-'||SALARY * 1.10 "Salary Details"FROM EMPLOYEES;
